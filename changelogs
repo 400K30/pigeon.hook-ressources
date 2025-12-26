@@ -1,20 +1,9 @@
-[Version 1 (1.0) "version-5b077c09380f4fe6"]
+[Version 2 (1.0) "version-5b077c09380f4fe6"]
 
 [Changelog]
 
 
-+ Released!
-+ Updated to version-5b077c09380f4fe6!
-+ Undetected!
-+ Free & Keyless!
-+ Doesnt lag on Low-End Pc's
-+ Aimbot
-+ Flick Bot
-+ Fov customization
-+ Esp
-+ Streamproof
-+ LuaVM
-+ Spotify Player
-+ Playerlist
-+ Dex Explorer (rework)
-+ Team check
++ Fov positions
++ Fixed crosshair postion
++ Fixed Team check
++ Fixed config crash
