@@ -1,12 +1,6 @@
-[Version 2 (1.2) "version-5b077c09380f4fe6"]
+[Version 2 (1.2) HOTFIX "version-5b077c09380f4fe6"]
 
-[Changelog]
+[Changelogs]
 
-
-+ Distance slider for Visuals, Flickbot & Aimbot
-+ Moved Anti-Aliasing to Settings
-+ Added Crosshair color Customization!
-+ Removed needing to always load from Loader.
-+ Fixed Configs not saving Head dot ESP
-+ Fixed Anti-Aliasing not saving in Configs
-+ Few more tiny fixes here and there
++ Temp removed distance slider for ESP
++ Performance fix
