@@ -1,0 +1,14 @@
+[Version 61 (6.7) "version-bobox326482376"]
+
+[Changelog]
+
+
++ Distance slider for Visuals, Flickbot & Aimbot
++ Moved Anti-Aliasing to Settings
++ Added Crosshair color Customization!
++ Removed needing to always load from Loader.
++ Fixed Configs not saving Head dot ESP
++ Fixed Anti-Aliasing not saving in Configs
++ Few more tiny fixes here and there
+- removed idk
+- this is just for testing new website
