@@ -1,6 +1,6 @@
-[Version 2 (1.2) HOTFIX "version-5b077c09380f4fe6"]
+[Version 2 (1.2) R2 "version-89d89cb2d6b649be"]
 
 [Changelogs]
 
-+ Temp removed distance slider for ESP
-+ Performance fix
++ Updated to version-89d89cb2d6b649be
++ Readded distance esp
