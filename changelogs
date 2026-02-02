@@ -1,7 +1,16 @@
-[Version 1.5 "version-f8734e043e1e40a2"]
+[Version 1.0 "version-db4634f0e27d4d36"]
 
 [Changelogs]
 
-+ Added RIVALS silent aim
-+ Fixed Roblox version mismatch
-+ Various bug Fixes
++ Fixed Bugs that progressively got alot worse
++ New silent aim modes
++ Rewrote aimbot
++ Rewrote cache ( better performance )
++ Added healthbar
++ Rewritten Tracers
++ Rewritten Boxes
++ Added support for 2 diff langs
++ New LuaVM functions
++ Fixed LuaVM vulns and crashes
++ Made console cleaner
++ Added DeadZone, Prediction, Shake And Rewritten Sticky Aim!
